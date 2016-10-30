@@ -1,3 +1,12 @@
+# -*- coding: utf-8 -*- 
+# tekKartPc.com
+# twitter.com/tekKartPc
+# facebokk.com/tekKartPc
+# -------------
+# led çalıştırma için önce
+# gerekli bağlantıyı yapınız.
+# detaylı bilgi için http://tekkartpc.com/raspberry-pi-ile-led-yakmak-ve-buzzer-calistirmak/ adresini ziyaret edip sorularınızı sorabilirsiniz.
+
 import RPi.GPIO as GPIO
 import time
 
