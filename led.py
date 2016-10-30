@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*- 
 # tekKartPc.com
 # twitter.com/tekKartPc
-# facebokk.com/tekKartPc
+# facebook.com/tekKartPc
 # -------------
 # led çalıştırma için önce
 # gerekli bağlantıyı yapınız.
